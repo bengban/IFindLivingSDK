@@ -1,0 +1,16 @@
+PODS:
+  - IFindLivingSDK (0.1.0)
+
+DEPENDENCIES:
+  - IFindLivingSDK (from `../`)
+
+EXTERNAL SOURCES:
+  IFindLivingSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IFindLivingSDK: 2d7d5f380d779d1c9055c018c4fb6e33b883e519
+
+PODFILE CHECKSUM: 681c9fc228112ac9d1ce0a657730ec1a6d8e8267
+
+COCOAPODS: 1.11.3

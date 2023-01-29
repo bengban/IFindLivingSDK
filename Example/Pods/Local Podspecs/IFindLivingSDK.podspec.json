@@ -1,0 +1,22 @@
+{
+  "name": "IFindLivingSDK",
+  "version": "0.1.0",
+  "summary": "A short description of IFindLivingSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/taoyuanheng/IFindLivingSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "taoyuanheng": "378204087@q.com"
+  },
+  "source": {
+    "git": "https://github.com/taoyuanheng/IFindLivingSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "IFindLivingSDK/Classes/**/*"
+}

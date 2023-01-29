@@ -1,0 +1,6 @@
+framework module Pods_IFindLivingSDK_Tests {
+  umbrella header "Pods-IFindLivingSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

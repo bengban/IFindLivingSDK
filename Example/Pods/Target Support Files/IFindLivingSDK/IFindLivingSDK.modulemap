@@ -1,0 +1,6 @@
+framework module IFindLivingSDK {
+  umbrella header "IFindLivingSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
